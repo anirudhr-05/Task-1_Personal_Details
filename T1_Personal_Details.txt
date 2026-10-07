@@ -1,0 +1,22 @@
+Name = input("Enter your Name : ")
+City = input("Enter your City : ")
+Age = input("Enter your Age : ")
+Favourite_food = input("Enter your Favourite_food : ")
+print("Name :", Name, "\nCity :", City, "\nAge :", Age, "\nFavourite_food :", Favourite_food)
+
+
+Python 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+Name = input("Enter your Name : ")
+Enter your Name : Anirudh
+City = input("Enter your City : ")
+Enter your City : Chennai
+Age = input("Enter your Age : ")
+Enter your Age : 25
+Favourite_food = input("Enter your Favourite_food : ")
+Enter your Favourite_food : Dosai
+print("Name :", Name, "\nCity :", City, "\nAge :", Age, "\nFavourite_food :", Favourite_food)
+Name : Anirudh 
+City : Chennai 
+Age : 25 
+Favourite_food : Dosai
